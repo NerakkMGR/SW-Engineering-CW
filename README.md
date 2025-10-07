@@ -1,1 +1,1 @@
-First meetings details.
+meetings details.
